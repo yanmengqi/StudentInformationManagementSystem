@@ -1,0 +1,4 @@
+admin admin 0
+lili lili 0
+lala lala 1
+lolo lolo 1
